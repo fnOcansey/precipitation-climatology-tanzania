@@ -1,0 +1,12 @@
+name: climate
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - geopandas
+  - netcdf4=1.5.8
+  - numpy
+  - pandas
+  - xarray
+
